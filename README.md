@@ -1,4 +1,6 @@
 # computing-work
-16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
